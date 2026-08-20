@@ -1,11 +1,16 @@
 # Minesweeper 64-bit Seed
 
+A Minesweeper implementation written in Kotlin with deterministic board generation.
+
 ## Custom Feature
 
 - Seed format `<A-Z>-<1-9A-F>`
 - Chord - Double Tap
 - Shareable seeds (the same board can be replayed)
 - Board 2x2 - 30x30
+
+## Custom Generation
+
 - FNV-1a 64-bit
 - SplitMix64 initialization
 - xorshift64* RNG
