@@ -4,10 +4,13 @@ A Minesweeper implementation written in Kotlin with deterministic board generati
 
 ## Custom Feature
 
-- Seed format `<A-Z>-<1-9A-F>`
-- Chord - Double Tap
-- Shareable seeds (the same board can be replayed)
-- Board 2x2 - 30x30
+- Seed format `<A-Z>-<0-9A-F>{1,16}`
+- Double tap Chord
+- Long press to flag cells
+- Flood fill cascading
+- 2x2 to 30x30 board sizes
+- First click safe zone
+- Shareable seeds for reproducible board layouts
 
 ## Custom Generation
 
