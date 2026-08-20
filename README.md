@@ -4,8 +4,8 @@ A Minesweeper implementation written in Kotlin with deterministic board generati
 
 <table>
 <tr>
-<td><img src="assets/Screenshot_20260820-160426.jpg" width="160"></td>
-<td><img src="assets/Screenshot_20260820-160655.jpg" width="160"></td>
+<td><img src="assets/Screenshot_20260820-160426.jpg" width="180"></td>
+<td><img src="assets/Screenshot_20260820-160655.jpg" width="180"></td>
 </tr>
 </table>
 
