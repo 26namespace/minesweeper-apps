@@ -2,12 +2,14 @@
 
 ## Custom Feature
 
-- Seed format `<A-Z>-<1-9A-F>
+- Seed format `<A-Z>-<1-9A-F>`
+- Chord - Double Tap
+- Shareable seeds (the same board can be replayed)
+- Board 2x2 - 30x30
 - FNV-1a 64-bit
 - SplitMix64 initialization
 - xorshift64* RNG
 - Fisher-Yates shuffle
-- Board 2x2 - 30x30
 
 ## Build
 
