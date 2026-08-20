@@ -2,9 +2,7 @@
 
 A Minesweeper implementation written in Kotlin with deterministic board generation.
 
-<p>
-<img src="assets/Screenshot_20260820-160426.jpg" width="250"> <img src="assets/Screenshot_20260820-160655.jpg" width= "250">
-</p>
+<p><img src="assets/Screenshot_20260820-160426.jpg" width="200" /> <img src="assets/Screenshot_20260820-160655.jpg" width="200" /></p>
 
 ## Custom Feature
 
