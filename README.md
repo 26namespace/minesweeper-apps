@@ -1,6 +1,9 @@
-# Minesweeper 64-bit Seed
+# Minesweeper Apps
 
 A Minesweeper implementation written in Kotlin with deterministic board generation.
+
+This is merely a concept, I'm creating a more advanced complex and competitive take on the classic Minesweeper, But early APKs are available on Releases Page:
+`https://github.com/26namespace/minesweeper-apps/releases/latest`
 
 <table>
 <tr>
@@ -35,9 +38,6 @@ If Gradle 9.5.x Available:
 ```bash
 gradle :app:assembleDebug
 ```
-
-APK:
-`app/build/outputs/apk/debug/app-debug.apk`
 
 Note:
 The project deliberately uses Android Gradle Plugin 9.3.0 and Gradle 9.5.0. AGP 9.3 requires Gradle 9.5.0 or later.
