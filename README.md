@@ -15,7 +15,7 @@ This is merely a concept, I'm creating a more advanced complex and competitive t
 ## Custom Feature
 
 - Seed format `<A-Z>-<0-9A-F>{1,16}` (for now)
-- Double tap Chord
+- Double tap Chord (for now)
 - Long press to flag cells (for now)
 - Flood fill cascading
 - 2x2 to 30x30 board sizes (for now)
