@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
         android:allowBackup="true"
-        android:label="Minesweeper64"
+        android:label="Minesweeper"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
