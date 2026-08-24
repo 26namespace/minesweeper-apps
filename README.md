@@ -14,20 +14,20 @@ This is merely a concept, I'm creating a more advanced complex and competitive t
 
 ## Custom Feature
 
-- Seed format `<A-Z>-<0-9A-F>{1,16}`
+- Seed format `<A-Z>-<0-9A-F>{1,16}` (for now)
 - Double tap Chord
-- Long press to flag cells
+- Long press to flag cells (for now)
 - Flood fill cascading
-- 2x2 to 30x30 board sizes
+- 2x2 to 30x30 board sizes (for now)
 - First click safe zone
-- Shareable seeds for reproducible board layouts
+- Shareable seeds for reproducible board layouts (for now)
 
 ## Custom Generation
 
-- FNV-1a 64-bit
-- SplitMix64 initialization
-- xorshift64* RNG
-- Fisher-Yates shuffle
+- FNV-1a 64-bit (for now)
+- SplitMix64 initialization (for now)
+- xorshift64* RNG (for now)
+- Fisher-Yates shuffle (for now)
 
 ## Build
 
