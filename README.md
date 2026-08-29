@@ -2,7 +2,7 @@
 
 A Minesweeper implementation written in Kotlin with deterministic board generation.
 
-Early APKs are available on Releases
+Early APKs are available on Pages
 https://github.com/26namespace/minesweeper-apps/releases/latest/
 
 
