@@ -6,13 +6,8 @@ This is merely a concept, I'm creating a more advanced complex and competitive t
 [https://github.com/26namespace/minesweeper-apps/releases/latest](https://github.com/26namespace/minesweeper-apps/releases/latest)
 
 Preview APKs:
-<iframe
-    src="https://appetize.io/embed/b_o2kkhw7hrshmvdczt76wll3v7e"
-    width="378"
-    height="800"
-    frameborder="0"
-    scrolling="no">
-</iframe>
+https://appetize.io/embed/b_o2kkhw7hrshmvdczt76wll3v7e
+
 
 <table>
 <tr>
